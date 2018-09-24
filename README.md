@@ -5,7 +5,8 @@ This is a collection of projects that I have done throughout college. Please vei
 
 
 ## Occupancy Monitor
-###### Report: asdf
+###### Report Fall symester: https://github.com/LaneSBarnes/Portfolio/blob/master/Occupancy%20Monitor%20Part%201.pdf
+###### Report Spring symester: https://github.com/LaneSBarnes/Portfolio/blob/master/Occupancy%20Monitor%20Part%202.pdf
 ###### Problem: asdf
 ###### Solution: asdf
 ###### Results: asdf
