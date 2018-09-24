@@ -5,9 +5,9 @@ This is a collection of projects that I have done throughout college. Please vei
 
 
 ## Occupancy Monitor
-# Problem: asdf
-# Solution: asdf
-# Results: asdf
+###### Problem: asdf
+###### Solution: asdf
+###### Results: asdf
 
 ## Glove Controller
 
