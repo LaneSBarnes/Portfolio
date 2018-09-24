@@ -1,10 +1,12 @@
-# Project Portfolio:
+###### Project Portfolio:
 This is a collection of projects that I have done throughout college. Please veiw the PDF's for more information.
 
-# Occupancy Monitor
+## Senior Design: Indoor Navigation With Smartphones
 
-# Glove Controller
+## Occupancy Monitor
 
-# Programmable Lock
+## Glove Controller
 
-# Automatic Attic Fan
+## Programmable Lock
+
+## Automatic Attic Fan
