@@ -2,7 +2,7 @@
 This is a collection of projects that I have done throughout college. Please view the PDF's for more information.
 
 ## Senior Design: Indoor Navigation With Smartphones (In Progress)
-![alt text](http://url/to/img.png)
+![TEST](https://imgur.com/a/Nos7NRq)
 ###### Team Website: http://projects-web.engr.colostate.edu/ece-sr-design/AY18/navigation/
 ###### Problem: While GPS is great at locating a device outdoors, it has trouble penetrating the roofs of buildings, providing an inaccurate location.
 ###### Solution: Predict the location of the user by using KNN machine learning algorithm and Wifi.
