@@ -3,6 +3,7 @@ This is a collection of projects that I have done throughout college. Please vie
 
 ## Senior Design: Indoor Navigation With Smartphones (In Progress)
 ![ ](https://github.com/LaneSBarnes/Portfolio/blob/master/Pictures/KNN%20Prediction%20Points.png)
+![ ](https://github.com/LaneSBarnes/Portfolio/blob/master/Pictures/RoverTurningCorner.gif)_
 
 **Team Website:** http://projects-web.engr.colostate.edu/ece-sr-design/AY18/navigation/
 
