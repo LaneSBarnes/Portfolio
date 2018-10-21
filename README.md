@@ -62,6 +62,8 @@ This is a collection of projects that I have done throughout college. Please vie
 
 **Report:** https://github.com/LaneSBarnes/Portfolio/blob/master/Programmable%20Keypad%20Lock.pdf
 
+**Goal:** To create a programmable keypad lock that can store user-made passwords.
+
 **Results:** 3x4 keypad and LEDs are wired to an Arduino. The Arduino controls a servo which opens a lock.
 
 
