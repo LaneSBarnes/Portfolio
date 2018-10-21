@@ -12,11 +12,13 @@ This is a collection of projects that I have done throughout college. Please vie
 
 **Results:** In Progress
 
+
 ## Weather Prediction (In Progress)
 
 **Goal:** To create a simplistic weather prediction network with Raspberry Pi, multiple Arduinos, temp/humidity/pressure sensors, and Exponential Moving Average algorithm.
 
 **Results:** In Progress
+
 
 ## Occupancy Monitor (Fall 2017 - Spring 2018)
 
@@ -32,6 +34,7 @@ This is a collection of projects that I have done throughout college. Please vie
 
 **Results:** Accurately counted people coming in and out of the BC-Infill during the E-Days demo.
 
+
 ## Glove Controller (Spring 2017)
 
 ![ ](https://github.com/LaneSBarnes/Portfolio/blob/master/Pictures/GloveFigures.png)
@@ -44,6 +47,7 @@ This is a collection of projects that I have done throughout college. Please vie
 
 **Results:** Gloved moved each ligament of 3D modeled hand created in Unity.
 
+
 ## Automatic Attic Fan (Fall 2017)
 
 ![ ](https://github.com/LaneSBarnes/Portfolio/blob/master/Pictures/AtticFan.PNG)
@@ -55,6 +59,7 @@ This is a collection of projects that I have done throughout college. Please vie
 **Solution:** Using CMOS transistors, thermistors, and relays, a fan can be activeted when a certain temperature is reached.
 
 **Results:** When exposed to hot air from a hair dryer, the fan would activate, enter a state of hysteresis, and then deactivate when the thermisters fall below the lower threshold temperature.
+
 
 ## Programmable Lock (Spring 2016)
 
