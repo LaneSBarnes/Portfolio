@@ -2,7 +2,7 @@
 This is a collection of projects that I have done throughout college. Please view the PDF's for more information.
 
 ## Senior Design: Indoor Navigation With Smartphones (In Progress)
-![ ](https://github.com/LaneSBarnes/Portfolio/blob/master/Pictures/RoverTurningCorner.gif)_
+![ ](https://github.com/LaneSBarnes/Portfolio/blob/master/Pictures/RoverTurningCorner.gif)
 
 **Team Website:** http://projects-web.engr.colostate.edu/ece-sr-design/AY18/navigation/
 
@@ -13,6 +13,8 @@ This is a collection of projects that I have done throughout college. Please vie
 **Results:** In Progress
 
 ## Occupancy Monitor (Fall 2017 - Spring 2018)
+
+![ ](https://github.com/LaneSBarnes/Portfolio/Pictures/OccupancyMonitorDevices.png)
 
 **Report Fall Symester:** https://github.com/LaneSBarnes/Portfolio/blob/master/Occupancy%20Monitor%20Part%201.pdf
 
