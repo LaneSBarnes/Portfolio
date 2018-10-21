@@ -12,6 +12,12 @@ This is a collection of projects that I have done throughout college. Please vie
 
 **Results:** In Progress
 
+## Weather Prediction (In Progress)
+
+**Goal:** To create a simplistic weather prediction network with Raspberry Pi, multiple Arduinos, temp/humidity/pressure sensors, and Exponential Moving Average algorithm.
+
+**Results:** In Progress
+
 ## Occupancy Monitor (Fall 2017 - Spring 2018)
 
 ![ ](https://github.com/LaneSBarnes/Portfolio/blob/master/Pictures/OccupancyMonitorDevices.png)
