@@ -14,7 +14,7 @@ This is a collection of projects that I have done throughout college. Please vie
 
 ## Occupancy Monitor (Fall 2017 - Spring 2018)
 
-![ ](https://github.com/LaneSBarnes/Portfolio/Pictures/OccupancyMonitorDevices.png)
+![ ](https://github.com/LaneSBarnes/Portfolio/blob/master/Pictures/OccupancyMonitorDevices.png)
 
 **Report Fall Symester:** https://github.com/LaneSBarnes/Portfolio/blob/master/Occupancy%20Monitor%20Part%201.pdf
 
@@ -28,7 +28,7 @@ This is a collection of projects that I have done throughout college. Please vie
 
 ## Glove Controller (Spring 2017)
 
-![ ](https://github.com/LaneSBarnes/Portfolio/Pictures/GloveFigures.png)
+![ ](https://github.com/LaneSBarnes/Portfolio/blob/master/Pictures/GloveFigures.png)
 
 **Report:** https://github.com/LaneSBarnes/Portfolio/blob/master/Motion%20Capturing%20Glove%20Controller.pdf
 
