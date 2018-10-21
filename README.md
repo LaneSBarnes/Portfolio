@@ -40,6 +40,8 @@ This is a collection of projects that I have done throughout college. Please vie
 
 ## Automatic Attic Fan (Fall 2017)
 
+![ ](https://github.com/LaneSBarnes/Portfolio/blob/master/Pictures/AtticFan.PNG)
+
 **Report:** https://github.com/LaneSBarnes/Portfolio/blob/master/Automatic%20Attic%20Fan.pdf
 
 **Problem:** Most attic fans are manually turned on or off.
@@ -49,6 +51,8 @@ This is a collection of projects that I have done throughout college. Please vie
 **Results:** When exposed to hot air from a hair dryer, the fan would activate, enter a state of hysteresis, and then deactivate when the thermisters fall below the lower threshold temperature.
 
 ## Programmable Lock (Spring 2016)
+
+![ ](https://github.com/LaneSBarnes/Portfolio/blob/master/Pictures/ProgrammableLockFigures.png)
 
 **Report:** https://github.com/LaneSBarnes/Portfolio/blob/master/Programmable%20Keypad%20Lock.pdf
 
