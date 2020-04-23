@@ -4,7 +4,7 @@ This is a collection of projects that I have done throughout college. Please vie
 ## Senior Design: Indoor Navigation With Smartphones (Fall 2018 - Spring 2019)
 ![ ](https://github.com/LaneSBarnes/Portfolio/blob/master/Pictures/RoverTurningCorner.gif)
 
-**Team Website:** http://projects-web.engr.colostate.edu/ece-sr-design/AY18/navigation/
+**Team Website:** http://projects-web.engr.colostate.edu/ece-sr-design/AY18/navigation/ (Broken)
 
 **Problem:** While GPS is great at locating a device outdoors, it has trouble penetrating the roofs of buildings, providing an inaccurate location.
 
@@ -65,3 +65,7 @@ This is a collection of projects that I have done throughout college. Please vie
 **Results:** 3x4 keypad and LEDs are wired to an Arduino. The Arduino controls a servo which opens a lock.
 
 
+## Unprofessional Github
+
+This is where I do all of my hobby programming projects. It mostly contains software related to speedrunning videogames.
+https://github.com/DerKO9
