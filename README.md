@@ -1,7 +1,7 @@
 # Project Portfolio
 This is a collection of projects that I have done throughout college. Please view the PDF's for more information.
 
-## Senior Design: Indoor Navigation With Smartphones (In Progress)
+## Senior Design: Indoor Navigation With Smartphones (Fall 2018 - Spring 2019)
 ![ ](https://github.com/LaneSBarnes/Portfolio/blob/master/Pictures/RoverTurningCorner.gif)
 
 **Team Website:** http://projects-web.engr.colostate.edu/ece-sr-design/AY18/navigation/
@@ -10,14 +10,7 @@ This is a collection of projects that I have done throughout college. Please vie
 
 **Solution:** Predict the location of the user by using KNN machine learning algorithm and Wifi.
 
-**Results:** In Progress
-
-
-## Weather Prediction (In Progress)
-
-**Goal:** To create a simplistic weather prediction network with Raspberry Pi, multiple Arduinos, temp/humidity/pressure sensors, and Exponential Moving Average algorithm.
-
-**Results:** In Progress
+**Results:** https://github.com/LaneSBarnes/Portfolio/blob/master/Indoor%20Navigation%20Report.pdf
 
 
 ## Occupancy Monitor (Fall 2017 - Spring 2018)
