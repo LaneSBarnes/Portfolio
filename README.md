@@ -1,5 +1,5 @@
 # Project Portfolio
-This is a collection of projects that I have done throughout college. Please view the PDF's for more information.
+This is a collection of projects that I have done. Please view the PDF's for more information.
 
 ## Space Lander AI (Winter 2020 - Present)
 ![_](Pictures/Result4.gif)
