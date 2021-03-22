@@ -1,6 +1,13 @@
 # Project Portfolio
 This is a collection of projects that I have done throughout college. Please view the PDF's for more information.
 
+## Space Lander AI (Winter 2020 - Present)
+![_](Pictures/Result4.gif)
+
+**Problem:** Use a ML model to efficiently land a craft onto a landing pad.
+
+**Results:** https://github.com/LaneSBarnes/Portfolio/blob/master/SpaceLanderAI.md
+
 ## Senior Design: Indoor Navigation With Smartphones (Fall 2018 - Spring 2019)
 ![ ](https://github.com/LaneSBarnes/Portfolio/blob/master/Pictures/RoverTurningCorner.gif)
 
