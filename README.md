@@ -1,7 +1,7 @@
 # Project Portfolio
 This is a collection of projects that I have done. Please view the PDF's for more information.
 
-## Space Lander AI (Winter 2020 - Present)
+## Space Lander AI (Winter 2020 - Spring 2021)
 ![_](Pictures/Result4.gif)
 
 **Problem:** Use a ML model to efficiently land a craft onto a landing pad.
