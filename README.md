@@ -11,7 +11,7 @@ This is a collection of projects that I have done. Please view the PDF's for mor
 ## Senior Design: Indoor Navigation With Smartphones (Fall 2018 - Spring 2019)
 ![ ](https://github.com/LaneSBarnes/Portfolio/blob/master/Pictures/RoverTurningCorner.gif)
 
-**Team Website:** http://projects-web.engr.colostate.edu/ece-sr-design/AY18/navigation/ (Broken)
+**Project Website:** https://www.engr.colostate.edu/~sudeep/indoor-localization/
 
 **Problem:** While GPS is great at locating a device outdoors, it has trouble penetrating the roofs of buildings, providing an inaccurate location.
 
